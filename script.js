@@ -7,8 +7,8 @@ var mouse = {
 }
 
 var size = {
-    x: 4000,
-    y: 4000
+    x: 6000,
+    y: 6000
 }
 
 var setMousePos = (event) => {
